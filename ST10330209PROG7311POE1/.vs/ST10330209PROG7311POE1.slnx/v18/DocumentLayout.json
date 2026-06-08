@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\services\\apiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:services\\apiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIClientService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Services\\APIClientService.cs",
+              "RelativeDocumentMoniker": "Services\\APIClientService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Services\\APIClientService.cs",
+              "RelativeToolTip": "Services\\APIClientService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAiwJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T18:31:55.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Program.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T18:38:01.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:05:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:05:08.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:05:06.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:05:03.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

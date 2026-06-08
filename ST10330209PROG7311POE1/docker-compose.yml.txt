@@ -1,0 +1,50 @@
+version: '3.8'
+
+services:
+  sql-server-db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Ethan@2004"
+      MSSQL_PID: "Express"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+    networks:
+      - glms-network
+
+  glms-backend-api:
+    build:
+      context: .
+      dockerfile: ST10330209PROG7311POE1.API/Dockerfile
+    ports:
+      - "5001:80"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      ConnectionStrings__DefaultConnection: "Server=sql-server-db;Database=GLMSDb;User=sa;Password=Ethan@2004;TrustServerCertificate=true"
+    depends_on:
+      - sql-server-db
+    networks:
+      - glms-network
+
+  glms-frontend-web:
+    build:
+      context: .
+      dockerfile: ST10330209PROG7311POE1/Dockerfile
+    ports:
+      - "8080:80"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Development"
+      ApiBaseUrl: "http://glms-backend-api"
+    depends_on:
+      - glms-backend-api
+    networks:
+      - glms-network
+
+networks:
+  glms-network:
+    driver: bridge
+
+volumes:
+  sql_data:

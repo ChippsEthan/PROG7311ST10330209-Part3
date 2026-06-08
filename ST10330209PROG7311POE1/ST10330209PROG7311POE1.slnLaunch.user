@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ST10330209PROG7311POE1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
