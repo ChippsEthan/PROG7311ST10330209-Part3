@@ -3,11 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\services\\apiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:services\\apiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7F1AAF6-23AD-4588-948C-31EB84C8DDFD}|..\\ST10330209PROG7311POE1.Tests\\ST10330209PROG7311POE1.Tests.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.tests\\tests\\apiintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\services\\icontractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -20,6 +31,94 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DBAF6E0-85D5-6D27-60A3-1AC0CC4103B8}|..\\ST10330209PROG7311POE1.API\\ST10330209PROG7311POE1.API.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\services\\apiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:services\\apiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\patterns\\strategy\\liveexchangeratestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:patterns\\strategy\\liveexchangeratestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\patterns\\strategy\\iexchangeratestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:patterns\\strategy\\iexchangeratestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\patterns\\strategy\\fallbackexchangeratestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:patterns\\strategy\\fallbackexchangeratestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\patterns\\observer\\icontractsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:patterns\\observer\\icontractsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\patterns\\observer\\icontractobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:patterns\\observer\\icontractobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\patterns\\observer\\emailnotifierobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:patterns\\observer\\emailnotifierobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\patterns\\factory\\standardcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:patterns\\factory\\standardcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\patterns\\factory\\premiumcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:patterns\\factory\\premiumcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\patterns\\factory\\icontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:patterns\\factory\\icontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\patterns\\factory\\enterprisecontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:patterns\\factory\\enterprisecontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|c:\\users\\lab_services_student\\desktop\\progpoe\\st10330209prog7311poe1\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F215B0-8CDB-2EE4-E029-457D8C50A3BE}|ST10330209PROG7311POE1.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,14 +133,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "APIClientService.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Services\\APIClientService.cs",
-              "RelativeDocumentMoniker": "Services\\APIClientService.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Services\\APIClientService.cs",
-              "RelativeToolTip": "Services\\APIClientService.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAiwJ4AAAABAAAAAAAAAA==",
+              "Title": "ApiIntegrationTests.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.Tests\\Tests\\ApiIntegrationTests.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.Tests\\Tests\\ApiIntegrationTests.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.Tests\\Tests\\ApiIntegrationTests.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.Tests\\Tests\\ApiIntegrationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T18:31:55.169Z",
+              "WhenOpened": "2026-06-08T19:58:44.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContractService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Services\\IContractService.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Services\\IContractService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Services\\IContractService.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Services\\IContractService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:58:32.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContractService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Services\\ContractService.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Services\\ContractService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Services\\ContractService.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Services\\ContractService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:58:30.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContractRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Repositories\\IContractRepository.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Repositories\\IContractRepository.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Repositories\\IContractRepository.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Repositories\\IContractRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:58:26.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContractRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Repositories\\ContractRepository.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Repositories\\ContractRepository.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Repositories\\ContractRepository.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Repositories\\ContractRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:58:23.015Z",
               "EditorCaption": ""
             },
             {
@@ -59,54 +210,340 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceRequestsController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
-              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
-              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T17:05:09.406Z",
+              "WhenOpened": "2026-06-08T19:57:31.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContractsController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
-              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
-              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T17:05:08.092Z",
+              "WhenOpened": "2026-06-08T17:05:03.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Controllers\\ClientsController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ClientsController.cs",
               "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-08T17:05:06.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Controllers\\AuthController.cs",
+              "DocumentIndex": 7,
+              "Title": "ContractsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Controllers\\ContractsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:05:08.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
+              "RelativeDocumentMoniker": "..\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
+              "RelativeToolTip": "..\\ST10330209PROG7311POE1.API\\Controllers\\ServiceRequestsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:05:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Services\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "Services\\CurrencyService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Services\\CurrencyService.cs",
+              "RelativeToolTip": "Services\\CurrencyService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T17:05:03.923Z",
+              "WhenOpened": "2026-06-08T19:57:25.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LiveExchangeRateStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Strategy\\LiveExchangeRateStrategy.cs",
+              "RelativeDocumentMoniker": "Patterns\\Strategy\\LiveExchangeRateStrategy.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Strategy\\LiveExchangeRateStrategy.cs",
+              "RelativeToolTip": "Patterns\\Strategy\\LiveExchangeRateStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:57:06.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IExchangeRateStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Strategy\\IExchangeRateStrategy.cs",
+              "RelativeDocumentMoniker": "Patterns\\Strategy\\IExchangeRateStrategy.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Strategy\\IExchangeRateStrategy.cs",
+              "RelativeToolTip": "Patterns\\Strategy\\IExchangeRateStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:57:05.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FallbackExchangeRateStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Strategy\\FallbackExchangeRateStrategy.cs",
+              "RelativeDocumentMoniker": "Patterns\\Strategy\\FallbackExchangeRateStrategy.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Strategy\\FallbackExchangeRateStrategy.cs",
+              "RelativeToolTip": "Patterns\\Strategy\\FallbackExchangeRateStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:57:04.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "APIClientService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Services\\APIClientService.cs",
+              "RelativeDocumentMoniker": "Services\\APIClientService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Services\\APIClientService.cs",
+              "RelativeToolTip": "Services\\APIClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T18:31:55.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IContractSubject.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Observer\\IContractSubject.cs",
+              "RelativeDocumentMoniker": "Patterns\\Observer\\IContractSubject.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Observer\\IContractSubject.cs",
+              "RelativeToolTip": "Patterns\\Observer\\IContractSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:58.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IContractObserver.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Observer\\IContractObserver.cs",
+              "RelativeDocumentMoniker": "Patterns\\Observer\\IContractObserver.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Observer\\IContractObserver.cs",
+              "RelativeToolTip": "Patterns\\Observer\\IContractObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:57.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmailNotifierObserver.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Observer\\EmailNotifierObserver.cs",
+              "RelativeDocumentMoniker": "Patterns\\Observer\\EmailNotifierObserver.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Observer\\EmailNotifierObserver.cs",
+              "RelativeToolTip": "Patterns\\Observer\\EmailNotifierObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:56.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StandardContractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Factory\\StandardContractFactory.cs",
+              "RelativeDocumentMoniker": "Patterns\\Factory\\StandardContractFactory.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Factory\\StandardContractFactory.cs",
+              "RelativeToolTip": "Patterns\\Factory\\StandardContractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:53.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PremiumContractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Factory\\PremiumContractFactory.cs",
+              "RelativeDocumentMoniker": "Patterns\\Factory\\PremiumContractFactory.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Factory\\PremiumContractFactory.cs",
+              "RelativeToolTip": "Patterns\\Factory\\PremiumContractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:52.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IContractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Factory\\IContractFactory.cs",
+              "RelativeDocumentMoniker": "Patterns\\Factory\\IContractFactory.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Factory\\IContractFactory.cs",
+              "RelativeToolTip": "Patterns\\Factory\\IContractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:51.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnterpriseContractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Factory\\EnterpriseContractFactory.cs",
+              "RelativeDocumentMoniker": "Patterns\\Factory\\EnterpriseContractFactory.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Patterns\\Factory\\EnterpriseContractFactory.cs",
+              "RelativeToolTip": "Patterns\\Factory\\EnterpriseContractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:50.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "Models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:44.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:43.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "Models\\Contract.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Models\\Contract.cs",
+              "RelativeToolTip": "Models\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:42.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:40.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ServiceRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Controllers\\ServiceRequestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceRequestsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Controllers\\ServiceRequestsController.cs",
+              "RelativeToolTip": "Controllers\\ServiceRequestsController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwHEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:56:01.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:55:58.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ContractsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Controllers\\ContractsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContractsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Controllers\\ContractsController.cs",
+              "RelativeToolTip": "Controllers\\ContractsController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwG8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:55:29.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROGPOE\\ST10330209PROG7311POE1\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T19:55:25.067Z",
               "EditorCaption": ""
             }
           ]

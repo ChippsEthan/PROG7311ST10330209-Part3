@@ -36,7 +36,7 @@ namespace ST10330209PROG7311POE1.Services
             _baseUrl = config["ApiBaseUrl"] ?? "http://localhost:5292";
         }
 
-        // Contracts
+        
         public async Task<List<Contract>> GetContractsAsync(DateTime? startDate, DateTime? endDate, string? status)
         {
             var query = $"?startDate={startDate}&endDate={endDate}&status={status}";
@@ -78,7 +78,7 @@ namespace ST10330209PROG7311POE1.Services
             return response.IsSuccessStatusCode;
         }
 
-        // Clients
+        
         public async Task<List<Client>> GetClientsAsync()
         {
             var response = await _httpClient.GetAsync($"{_baseUrl}/api/clients");
@@ -117,7 +117,7 @@ namespace ST10330209PROG7311POE1.Services
             return response.IsSuccessStatusCode;
         }
 
-        // ServiceRequests
+        
         public async Task<List<ServiceRequest>> GetServiceRequestsAsync()
         {
             var response = await _httpClient.GetAsync($"{_baseUrl}/api/servicerequests");

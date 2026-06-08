@@ -13,7 +13,7 @@ namespace ST10330209PROG7311POE1.API.Controllers
         [HttpPost("login")]
         public IActionResult Login([FromBody] LoginRequest request)
         {
-            // Accept any username/password for demo
+            
             if (string.IsNullOrEmpty(request.Username) || string.IsNullOrEmpty(request.Password))
                 return Unauthorized();
 

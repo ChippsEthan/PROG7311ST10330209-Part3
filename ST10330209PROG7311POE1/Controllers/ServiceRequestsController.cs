@@ -14,14 +14,14 @@ namespace ST10330209PROG7311POE1.Controllers
             _apiClient = apiClient;
         }
 
-        // GET: ServiceRequests
+        
         public async Task<IActionResult> Index()
         {
             var requests = await _apiClient.GetServiceRequestsAsync();
             return View(requests);
         }
 
-        // GET: ServiceRequests/Details/5
+        
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null) return NotFound();
@@ -30,10 +30,10 @@ namespace ST10330209PROG7311POE1.Controllers
             return View(request);
         }
 
-        // GET: ServiceRequests/Create
+        
         public async Task<IActionResult> Create()
         {
-            // Get all contracts with client names for dropdown
+            
             var contracts = await _apiClient.GetContractsAsync(null, null, null);
             var contractList = contracts.Select(c => new {
                 Id = c.Id,
@@ -43,7 +43,7 @@ namespace ST10330209PROG7311POE1.Controllers
             return View();
         }
 
-        // POST: ServiceRequests/Create
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(ServiceRequest request)
@@ -54,7 +54,7 @@ namespace ST10330209PROG7311POE1.Controllers
                 return RedirectToAction(nameof(Index));
             }
 
-            // Repopulate dropdown on error
+            
             var contracts = await _apiClient.GetContractsAsync(null, null, null);
             var contractList = contracts.Select(c => new {
                 Id = c.Id,
@@ -64,7 +64,7 @@ namespace ST10330209PROG7311POE1.Controllers
             return View(request);
         }
 
-        // GET: ServiceRequests/Edit/5
+        
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null) return NotFound();
@@ -80,7 +80,7 @@ namespace ST10330209PROG7311POE1.Controllers
             return View(request);
         }
 
-        // POST: ServiceRequests/Edit/5
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, ServiceRequest request)
@@ -102,7 +102,7 @@ namespace ST10330209PROG7311POE1.Controllers
             return View(request);
         }
 
-        // GET: ServiceRequests/Delete/5
+       
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null) return NotFound();
@@ -111,7 +111,7 @@ namespace ST10330209PROG7311POE1.Controllers
             return View(request);
         }
 
-        // POST: ServiceRequests/Delete/5
+       
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

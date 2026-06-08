@@ -7,7 +7,7 @@ using ST10330209PROG7311POE1.Services;
 
 namespace ST10330209PROG7311POE1.API.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ServiceRequestsController : ControllerBase
